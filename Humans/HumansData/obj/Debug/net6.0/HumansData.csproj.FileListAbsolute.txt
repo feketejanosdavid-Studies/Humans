@@ -1,0 +1,14 @@
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-04-03\Humans\HumansData\bin\Debug\net6.0\HumansData.deps.json
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-04-03\Humans\HumansData\bin\Debug\net6.0\HumansData.dll
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-04-03\Humans\HumansData\bin\Debug\net6.0\HumansData.pdb
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-04-03\Humans\HumansData\obj\Debug\net6.0\HumansData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-04-03\Humans\HumansData\obj\Debug\net6.0\HumansData.AssemblyInfoInputs.cache
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-04-03\Humans\HumansData\obj\Debug\net6.0\HumansData.AssemblyInfo.cs
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-04-03\Humans\HumansData\obj\Debug\net6.0\HumansData.csproj.CoreCompileInputs.cache
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-04-03\Humans\HumansData\obj\Debug\net6.0\HumansData.dll
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-04-03\Humans\HumansData\obj\Debug\net6.0\refint\HumansData.dll
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-04-03\Humans\HumansData\obj\Debug\net6.0\HumansData.pdb
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-04-03\Humans\HumansData\obj\Debug\net6.0\ref\HumansData.dll
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-04-03\Humans\HumansData\obj\Debug\net6.0\HumansData.csproj.AssemblyReference.cache
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-04-03\Humans\HumansData\bin\Debug\net6.0\HumansData.runtimeconfig.json
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-04-03\Humans\HumansData\obj\Debug\net6.0\HumansData.genruntimeconfig.cache
